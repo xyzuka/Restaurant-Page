@@ -6,7 +6,7 @@
 
 #### Description
 
-Restaurant page project from The Odin Project Curriculum.
+Restaurant page project from The Odin Project Curriculum, created to work with Webpack5 and Modules.
 
 #### Features
 - Responsive design
