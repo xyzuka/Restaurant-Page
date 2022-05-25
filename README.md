@@ -11,7 +11,6 @@ Restaurant page project from The Odin Project Curriculum, created to work with W
 #### Features
 - Responsive design
 - Navigation Tabs
-- Accessible form
 
 #### Built with
 - HTML
