@@ -2,7 +2,7 @@
 
 <a href="">👉🏻 Live Demo</a>
 
-<img src="/Images/demo.gif">
+![](/src/Images/demo.gif)
 
 #### 📝 Description
 
